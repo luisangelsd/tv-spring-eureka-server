@@ -13,3 +13,10 @@ public class EurekaServerApplication {
 	}
 
 }
+
+
+/* Configuración:
+ * - Es servidor Eureka
+ * - Esta registrado como Cliente Eureka - Desde el properties
+ * - Es cliente de Spring Cloud Config Server
+ */

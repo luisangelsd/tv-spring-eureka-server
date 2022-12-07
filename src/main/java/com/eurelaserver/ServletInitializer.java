@@ -13,3 +13,8 @@ public class ServletInitializer extends SpringBootServletInitializer{
 	
 
 }
+
+/* Notas de desarrollo:
+ * - Es servidor Eureka
+ * - Su configuración se encuentra en Spring Cloud Config Server
+ */
